@@ -50,10 +50,17 @@
 
 /*IMAGES*/
 
-.tomoru-img-macbook {
-	background-image: url('../img/macbook.png');
+.tomoru-img-block {
 	background-repeat: no-repeat;
 	background-size: contain;
+	background-position: center;
+}
+.tomoru-img-block-macbook {
+	background-image: url('../img/macbook.png');
+}
+
+.tomoru-img-block-phone {
+	background-image: url('../img/phone.png');
 }
 
 
