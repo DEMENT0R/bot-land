@@ -5,50 +5,48 @@
                 <p class="tomoru-font-2">Диалоговый интерфейс с информационными системами в виде текста и голоса</p>
 
                 <!-- <img src="img/macbook.png" alt="" align="right" width="40%" class="d-md-none"> -->
+                 <div class="col-12 d-md-none">
+                    <img src="img/phone.png" width="100%" class="d-md-none">
+                  </div>
                 <div class="col-12 row">
-                  <div class="col-8 col-md-12 row">
-                    <div class="col-2"><img src="img/icons/check.svg" class=""></div>
+                    <div class="col-2"><img src="img/icons/check.svg"></div>
                     <div class="col-10">
                       <p class="tomoru-font-3">
-                        <b style="font-weight: 600;">Никогда не забывает</b><br>
-                        Перезвонить, отправить предложение<br> или выставить счёт
+                        <b style="font-weight: 600;">Никогда не забывает</b><br class="d-none d-md-block">
+                        Перезвонить, отправить предложение<br class="d-none d-md-block"> или выставить счёт
                       </p>
                     </div>
 
                     <div class="col-2"><img src="img/icons/check.svg"></div>
                     <div class="col-10">
                       <p class="tomoru-font-3">
-                        <b style="font-weight: 600;">Всегда стабилен</b><br>
-                        Не ленится, не болеет, не бывает<br> в плохом настроении</p>
+                        <b style="font-weight: 600;">Всегда стабилен</b><br class="d-none d-md-block">
+                        Не ленится, не болеет, не бывает<br class="d-none d-md-block"> в плохом настроении</p>
                     </div>
 
                     <div class="col-2"><img src="img/icons/check.svg"></div>
                     <div class="col-10">
                       <p class="tomoru-font-3">
-                        <b style="font-weight: 600;">Круглосуточно на связи</b><br>
-                        Общается с клиентами<br> без перерывов и выходных</p>
+                        <b style="font-weight: 600;">Круглосуточно на связи</b><br class="d-none d-md-block">
+                        Общается с клиентами<br class="d-none d-md-block"> без перерывов и выходных</p>
                     </div>
 
                     <div class="col-2"><img src="img/icons/check.svg"></div>
                     <div class="col-10">
                       <p class="tomoru-font-3">
-                        <b style="font-weight: 600;">Отвечает быстро</b><br>
-                        В 6-12 раз быстрее отвечает на звонок,<br> в 5-20 раз быстрее отвечает на вопросы клиента *</p>
+                        <b style="font-weight: 600;">Отвечает быстро</b><br class="d-none d-md-block">
+                        В 6-12 раз быстрее отвечает на звонок,<br class="d-none d-md-block"> в 5-20 раз быстрее отвечает на вопросы клиента *</p>
                     </div>
 
                     <!--
-                    <p class="tomoru-font-3 col-12"><img src="img/icons/check.svg" align="left"><b style="font-weight: 600;">Никогда не забывает</b><br>Перезвонить, отправить предложение<br> или выставить счёт</p>
+                    <p class="tomoru-font-3 col-12"><img src="img/icons/check.svg" align="left"><b style="font-weight: 600;">Никогда не забывает</b><br class="d-none d-md-block">Перезвонить, отправить предложение<br class="d-none d-md-block"> или выставить счёт</p>
 
-                    <p class="tomoru-font-3 col-12"><img src="img/icons/check.svg" align="left"><b style="font-weight: 600;">Всегда стабилен</b><br>Не ленится, не болеет, не бывает<br> в плохом настроении</p>
+                    <p class="tomoru-font-3 col-12"><img src="img/icons/check.svg" align="left"><b style="font-weight: 600;">Всегда стабилен</b><br class="d-none d-md-block">Не ленится, не болеет, не бывает<br class="d-none d-md-block"> в плохом настроении</p>
 
-                    <p class="tomoru-font-3 col-12"><img src="img/icons/check.svg" align="left"><b style="font-weight: 600;">Круглосуточно на связи</b><br>Общается с клиентами<br> без перерывов и выходных</p>
+                    <p class="tomoru-font-3 col-12"><img src="img/icons/check.svg" align="left"><b style="font-weight: 600;">Круглосуточно на связи</b><br class="d-none d-md-block">Общается с клиентами<br class="d-none d-md-block"> без перерывов и выходных</p>
 
-                    <p class="tomoru-font-3 col-12"><img src="img/icons/check.svg" align="left"><b style="font-weight: 600;">Отвечает быстро</b><br>В 6-12 раз быстрее отвечает на звонок,<br> в 5-20 раз быстрее отвечает на вопросы клиента *</p><br>
+                    <p class="tomoru-font-3 col-12"><img src="img/icons/check.svg" align="left"><b style="font-weight: 600;">Отвечает быстро</b><br class="d-none d-md-block">В 6-12 раз быстрее отвечает на звонок,<br class="d-none d-md-block"> в 5-20 раз быстрее отвечает на вопросы клиента *</p><br class="d-none d-md-block">
                       -->
-                  </div>
-                  <div class="col-4 d-md-none">
-                    <img src="img/macbook.png" alt="" align="right" width="100%" class="d-md-none">
-                  </div>
                 </div>
 
 
