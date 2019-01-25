@@ -5,37 +5,37 @@
     <div class="" style="margin-top: 70px;">
       <div id="land_0" class="landingItem">
 
-        <?php include 'sections\section-0.php'; ?>
+        <?php include 'sections/section-0.php'; ?>
 
       </div>
       <div id="land_1" class="landingItem mt-5">
 
-        <?php include 'sections\section-1.php'; ?>
+        <?php include 'sections/section-1.php'; ?>
 
       </div>
       <div id="land_2" class="landingItem">
 
-        <?php include 'sections\section-2.php'; ?>
+        <?php include 'sections/section-2.php'; ?>
 
       </div>
       <div id="land_3" class="landingItem">
 
-        <?php include 'sections\section-3.php'; ?>
+        <?php include 'sections/section-3.php'; ?>
 
       </div>
       <div id="land_4" class="landingItem">
 
-        <?php include 'sections\section-4.php'; ?>
+        <?php include 'sections/section-4.php'; ?>
 
       </div>
       <div id="land_5" class="landingItem">
 
-        <?php include 'sections\section-5.php'; ?>
+        <?php include 'sections/section-5.php'; ?>
 
       </div>
       <div id="land_6" class="landingItem">
 
-        <?php include 'sections\section-6.php'; ?>
+        <?php include 'sections/section-6.php'; ?>
 
       </div>
     </div>
