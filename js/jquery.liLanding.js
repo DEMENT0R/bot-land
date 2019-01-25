@@ -21,7 +21,7 @@
 			return this.each(function () {
 				var el = $(this);
 				var elPos = el.offset().top;
-				var wHalf = $(window).height()/2
+				var wHalf = $(window).height()/2;
 				var scrollId = function(){};
 				
 				//assign events only links with anchors
@@ -32,9 +32,9 @@
 						var linkTarget = $(linkHref);
 						var linkTargetPos = linkTarget.offset().top;
 						var windowPos = $(window).scrollTop();
-						var animDuration = linkTargetPos - windowPos
+						var animDuration = linkTargetPos - windowPos;
 						if(animDuration < 0){
-							animDuration = animDuration*-1	
+							animDuration = animDuration*-1	;
 						}
 						//scroll the page to the desired block
 						if(linkTarget.length){
@@ -44,9 +44,9 @@
 						}
 					}
 					return false;
-				})
+				});
 				//stop the animation by scrolling
-				var mousewheelevt=(/Firefox/i.test(navigator.userAgent))? "DOMMouseScroll" : "mousewheel" //FF doesn't recognize mousewheel as of FF3.x
+				var mousewheelevt=(/Firefox/i.test(navigator.userAgent))? "DOMMouseScroll" : "mousewheel"; //FF doesn't recognize mousewheel as of FF3.x
 				if (document.attachEvent) //if IE (and Opera depending on user setting)
 					document.attachEvent("on"+mousewheelevt, function(e){
 						$('html, body').stop(true);		
@@ -55,7 +55,7 @@
 					document.addEventListener(mousewheelevt, function(e){
 						//e.detail //direction
 						$('html, body').stop(true);
-					}, false)
+					}, false);
 				//highlight the desired link in the menu by scrolling
 				$(window).on('scroll',function(e){
 					clearTimeout(scrollId);
@@ -91,7 +91,7 @@
 							}
 						});
 					},100);
-				})
+				});
 				$(window).trigger('scroll');
 			});
 		}

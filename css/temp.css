@@ -2,6 +2,8 @@
 
 /*FONTS*/
 .tomoru-font-1 {
+	margin-top: 70px;
+	
 	font-family: Fira Sans;
 	font-style: normal;
 	font-weight: normal;
@@ -36,7 +38,7 @@
 	display: inline-block;
 	color: #06A77D;
 	padding: 10px 20px;
-	margin-top: 50px;
+	/*margin-top: 50px;*/
 	border: 1px solid #06A77D;
 	border-radius: 20px;
 }

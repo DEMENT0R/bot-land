@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <?php include 'header.php'; ?>
 
-    <div class="" style="margin-top: 70px;">
+    <div class="">
       <div id="land_0" class="landingItem">
 
         <?php include 'sections/section-0.php'; ?>

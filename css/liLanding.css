@@ -31,6 +31,10 @@ html {
 	position:relative;
 }
 
+.bg_all {
+	min-height: 100vh;
+}
+
 .bg_0 {
 /*	height:600px;
 	line-height:600px;*/
