@@ -51,8 +51,8 @@ html {
 }
 
 .bg_3 {
-	height:600px;
-	line-height:600px;
+/*	height:600px;
+	line-height:600px;*/
 }
 
 .bg_4 {
@@ -145,7 +145,7 @@ html {
 	height:10px;
 	margin: 5px;
 	border-radius:50%;
-	background:000;
+	/*background:000;*/
 	text-indent:-99999px;
 	display:block;
 	background:#DDDDDD;
