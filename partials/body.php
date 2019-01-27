@@ -41,7 +41,7 @@
     </div>
   
   <footer>
-    <div class="tomoru-font-3 wow fadeInUp" style="font-weight: 600;">Gexar © 2018</div>
+    <div class="tomoru-font-3">Gexar © 2018</div>
   </footer>
 
 </body>
