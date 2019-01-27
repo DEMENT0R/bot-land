@@ -57,6 +57,9 @@ html {
 	background-color: #06A77D;
 	background-image: url('../img/bg-block-3.png');
 	background-size: cover;
+	background-position: right;
+	background-repeat: no-repeat;
+
 }
 
 .bg_3 {
@@ -167,3 +170,6 @@ html {
 	margin: 0;
 }
 
+.b-3.cur {
+	background:#FFFFFF;
+}

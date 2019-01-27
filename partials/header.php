@@ -58,7 +58,7 @@
                   <li><a href="#land_0">landing link 0</a></li>
                   <li><a href="#land_1">landing link 1</a></li>
                   <li><a href="#land_2">landing link 2</a></li>
-                  <li><a href="#land_3">landing link 3</a></li>
+                  <li><a href="#land_3" class="b-3">landing link 3</a></li>
                   <li><a href="#land_4">landing link 4</a></li>
                   <li><a href="#land_5">landing link 5</a></li>
                   <li><a href="#land_6">landing link 6</a></li>
