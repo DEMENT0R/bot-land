@@ -2,48 +2,34 @@
                <div class="col-12 wrapper" style="margin: auto;"></div>
           	<!-- <div class="decoy">5</div> -->
           	<div class="col-12 col-md-10 offset-md-2 row">
-          		<div class="col-12 row">
+          		<div class="col-12 myrow mycol row">
           			<div class="col-12">
           				<h2 class="tomoru-font-1 wow fadeInDown">Цены</h2>
           			</div>
           			<div class="col-12">
           				<h3 class="tomoru-font-2">Рассчитайте примерную стоимость вашего проекта</h3>
           			</div>
-          			<div class="col-12 row">
-          				<div class="col-12 col-md-8">
-          					<div class="col-12 row">
+          			<div class="col-12 myrow row">
+          				<div class="col-12 col-md-8 myrow mycol">
+          					<div class="col-12 myrow mycol row">
           						<p class="tomoru-font-3 mb-0">Тип бота <img src="img/icons/question.svg" alt="Помощь"></p>
-								<!--
-                                        <div class="btn-group row col-12" role="group" aria-label="Basic example">
-								  <button type="button" class="btn btn-success tomoru-btn-2 col-4 tomoru-font-4">Текстовый</button>
-								  <button type="button" class="btn btn-success tomoru-btn-2 col-4 tomoru-font-4">Голосовой стандартный</button>
-								  <button type="button" class="btn btn-success tomoru-btn-2 col-4 tomoru-font-4">Голосовой эксклюзивный</button>
-								</div>
-                                        -->
 
-                                        <div class="btn-group btn-group-toggle row col-12" role="group" aria-label="Basic example" data-toggle="buttons">
+                                        <div class="btn-group btn-group-toggle row col-12 myrow mycol" role="group" aria-label="Basic example" data-toggle="buttons">
                                           <label class="btn tomoru-btn-2 col-4 tomoru-font-4 active">
                                             <input type="radio" name="options" id="option1" autocomplete="off" checked> Текстовый
                                           </label>
                                           <label class="btn tomoru-btn-2 col-4 tomoru-font-4">
-                                            <input type="radio" name="options" id="option2" autocomplete="off"> Голосовой стандартный
+                                            <input type="radio" name="options" id="option2" autocomplete="off"> Голосовой<br class="d-md-none"> стандартный
                                           </label>
                                           <label class="btn tomoru-btn-2 col-4 tomoru-font-4">
-                                            <input type="radio" name="options" id="option3" autocomplete="off"> Голосовой эксклюзивный
+                                            <input type="radio" name="options" id="option3" autocomplete="off"> Голосовой<br class="d-md-none"> эксклюзивный
                                           </label>
                                         </div>
           					</div>
-        					<div class="col-12 row mt-3">
+        					<div class="col-12 row mt-3 myrow mycol">
           						<p class="tomoru-font-3 mb-0">Уровень обучаемости <img src="img/icons/question.svg" alt="Помощь"></p>
-								<!--
-                                        <div class="btn-group row col-12" role="group" aria-label="Basic example">
-								  <button type="button" class="btn btn-success tomoru-btn-2 col-4 tomoru-font-4">Базовый</button>
-								  <button type="button" class="btn btn-success tomoru-btn-2 col-4 tomoru-font-4">Продвинутый</button>
-								  <button type="button" class="btn btn-success tomoru-btn-2 col-4 tomoru-font-4">Эксклюзивный</button>
-								</div>
-                                        -->
 
-                                        <div class="btn-group btn-group-toggle row col-12" role="group" aria-label="Basic example" data-toggle="buttons">
+                                        <div class="btn-group btn-group-toggle row col-12 myrow mycol" role="group" aria-label="Basic example" data-toggle="buttons">
                                           <label class="btn tomoru-btn-2 col-4 tomoru-font-4">
                                             <input type="radio" name="options" id="option1" autocomplete="off" checked> Базовый
                                           </label>
@@ -56,11 +42,11 @@
                                         </div>
           					</div>
           					<div class="col-12 row mt-5">
-                                        <div class="col-6">
+                                        <div class="col-12 col-md-6 mt-3">
                                              <p class="tomoru-font-4">Кол-во сотрудников, в работе которых будет помогать бот *</p>
 
                                              <span id="ex6CurrentSliderValLabel"><span id="ex1SliderVal" class="tomoru-font-2">10</span></span><br>
-                                             <input id="ex1" type="text" data-slider-min="1" data-slider-max="20" data-slider-step="1" data-slider-value="10"/>
+                                             <input id="ex1" type="text" data-slider-min="1" data-slider-max="20" data-slider-step="1" data-slider-value="10" />
 
                                              <script>
                                                   var slider = new Slider("#ex1");
@@ -69,7 +55,7 @@
                                                   });
                                              </script>
                                         </div>
-                                        <div class="col-6">
+                                        <div class="col-12 col-md-6 mt-3">
                                              <p class="tomoru-font-4">Кол-во сотрудников, в работе которых будет помогать бот *</p>
 
                                              <span id="ex6CurrentSliderValLabel" class="tomoru-font-2"><span id="ex2SliderVal" class="tomoru-font-2">25000</span> ₽</span><br>
