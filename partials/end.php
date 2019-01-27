@@ -9,4 +9,6 @@
   <script src="js/wow.min.js"></script>
   <!-- init javascript -->
   <script src="js/init.js"></script>
+  <!-- init Calc -->
+  <script src="js/calc.js"></script>
 </html>

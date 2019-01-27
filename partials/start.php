@@ -12,9 +12,9 @@
   <!-- Main Styles -->
   <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
-  <link rel="stylesheet" href="css/temp.css">
+  <!-- <link rel="stylesheet" href="css/temp.css"> -->
   <!-- Landing navigation -->
-<!--   <link rel="stylesheet" href="css/demo.css"> -->
+  <!-- <link rel="stylesheet" href="css/demo.css"> -->
   <link rel="stylesheet" href="css/liLanding.css">
   <script src="js/jquery-1.9.0.min.js"></script>
   <script src="js/jquery.liLanding.js"></script>
@@ -26,5 +26,5 @@
   });
   </script> 
 
-  <title>TOMORU</title>
+  <title>TOMORU — Речевые боты с нейронными сетями</title>
 </head>

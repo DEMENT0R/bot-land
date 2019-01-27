@@ -6,9 +6,6 @@
                 <p class="tomoru-font-2 wow fadeInLeft">Диалоговый интерфейс с информационными системами в виде текста и голоса</p>
 
                 <!-- <img src="img/macbook.png" alt="" align="right" width="40%" class="d-md-none"> -->
-                 <div class="col-12 d-md-none">
-                    <img src="img/phone.png" width="100%" class="d-md-none">
-                  </div>
                 <div class="col-12 row pr-0 mr-0 wow fadeInRight">
                     <div class="col-3"><img src="img/icons/check.svg"></div>
                     <div class="col-9 pr-0">

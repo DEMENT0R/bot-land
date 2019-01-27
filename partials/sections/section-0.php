@@ -7,10 +7,10 @@
 
                 <!-- <img src="img/macbook.png" alt="" align="right" width="40%" class="d-md-none"> -->
                 <div class="row wow fadeInRight">
-                  <div class="col-12 d-md-none">
+                  <!-- <div class="col-12 d-md-none">
                     <img src="img/macbook.png" alt="" align="center" width="100%" class="d-md-none">
-                  </div> 
-                  <div class="col-12 row">
+                  </div>  -->
+                  <div id="tomoru-img-macbook-right" class="col-12 row">
                     <p class="tomoru-font-3 col-12"><img src="img/icons/face.svg" align="left">До 50% снижают нагрузку<br> на менеджеров</p>
                     <p class="tomoru-font-3 col-12"><img src="img/icons/hog.svg" align="left">В 2 раза экономичней<br> менеджеров</p>
                     <p class="tomoru-font-3 col-12"><img src="img/icons/clock.svg" align="left">На связи<br> круглые сутки</p>

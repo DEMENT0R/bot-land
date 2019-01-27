@@ -6,21 +6,21 @@
           			<h2 class="tomoru-font-1 col-12 wow fadeInDown">Поставьте бизнес на автопилот</h2>
           			<br>
           			<!-- Nav tabs -->
-          			<ul class="nav nav-tabs wow fadeInLeft">
+          			<ul class="nav nav-tabs" style="border: none;">
           				<li class="nav-item">
-          					<a class="nav-link active" data-toggle="tab" href="#menu1">Отдел продаж</a>
+          					<a class="nav-link block-3-tab active" data-toggle="tab" href="#menu1">Отдел продаж</a>
           				</li>
           				<li class="nav-item">
-          					<a class="nav-link" data-toggle="tab" href="#menu2">Отдел кадров</a>
+          					<a class="nav-link block-3-tab" data-toggle="tab" href="#menu2">Отдел кадров</a>
           				</li>
           				<li class="nav-item">
-          					<a class="nav-link" data-toggle="tab" href="#menu3">Техническая поддержка</a>
+          					<a class="nav-link block-3-tab" data-toggle="tab" href="#menu3">Техническая поддержка</a>
           				</li>
           				<li class="nav-item">
-          					<a class="nav-link" data-toggle="tab" href="#menu4">Справочная служба</a>
+          					<a class="nav-link block-3-tab" data-toggle="tab" href="#menu4">Справочная служба</a>
           				</li>
           				<li class="nav-item">
-          					<a class="nav-link" data-toggle="tab" href="#menu5">Другие задачи</a>
+          					<a class="nav-link block-3-tab" data-toggle="tab" href="#menu5">Другие задачи</a>
           				</li>
           			</ul>
 
