@@ -1,4 +1,5 @@
           <div class="bg_all bg_0 row">
+            <div class="col-12 wrapper" style="margin: auto;"></div>
               <!-- <div class="decoy">0</div> -->
               <div class="col-12 col-md-5 offset-md-2 text-left my-auto">
                 <h1 class="tomoru-font-1 wow fadeInDown">Речевые боты с нейронными сетями</h1>
@@ -33,4 +34,5 @@
                   });
                 });
               </script>
+              <div class="col-12 wrapper" style="margin: auto;"></div>
           </div>

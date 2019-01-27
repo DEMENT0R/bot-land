@@ -1,4 +1,5 @@
           <div class="bg_all bg_1 row">
+            <div class="col-12 wrapper" style="margin: auto;"></div>
               <!-- <div class="decoy">1</div> -->
               <div class="col-12 col-md-5 offset-md-2 row text-left">
                 <h2 class="tomoru-font-1 wow fadeInDown">Поддерживают диалог с клиентами</h2>
@@ -45,6 +46,6 @@
                 
               </div>
               <div class="col-3 offset-1 tomoru-img-block tomoru-img-block-phone d-none d-md-block wow fadeInRight">
-                
               </div>
+              <div class="col-12 wrapper" style="margin: auto;"></div>
           </div>

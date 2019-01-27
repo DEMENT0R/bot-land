@@ -1,4 +1,5 @@
-          <div class="bg_all bg_5">
+          <div class="bg_all bg_5 row">
+               <div class="col-12 wrapper" style="margin: auto;"></div>
           	<!-- <div class="decoy">5</div> -->
           	<div class="col-12 col-md-10 offset-md-2 row">
           		<div class="col-12 row">
@@ -45,4 +46,5 @@
           			</div>
           		</div>
           	</div>
+               <div class="col-12 wrapper" style="margin: auto;"></div>
           </div>

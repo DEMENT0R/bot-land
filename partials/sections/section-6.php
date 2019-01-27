@@ -1,4 +1,5 @@
-          <div class="bg_all bg_6">
+          <div class="bg_all bg_6 row">
+               <div class="col-12 wrapper" style="margin: auto;"></div>
               <!-- <div class="decoy">6</div> -->
           	<div class="col-12 col-md-10 offset-md-2 row">
           		<div class="col-12 row">
@@ -49,8 +50,9 @@
           			<div class="col-12 row">
           				<div class="tomoru-font-4 mt-4">* Все сообщения, на которые бот не сумел ответить корректно, вы не оплачиваете.</div>
           				<div class="tomoru-font-4">** Гарантии предоставляются на ботов созданных при участии специалистов нашей компании или наших партнеров.
-</div>
+                              </div>
           			</div>
           		</div>
           	</div>
+               <div class="col-12 wrapper" style="margin: auto;"></div>
           </div>
