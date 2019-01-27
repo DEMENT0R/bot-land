@@ -55,6 +55,8 @@ html {
 /*	height:600px;
 	line-height:600px;*/
 	background-color: #06A77D;
+	background-image: url('../img/bg-block-3.png');
+	background-size: cover;
 }
 
 .bg_3 {

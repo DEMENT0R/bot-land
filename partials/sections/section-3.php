@@ -5,11 +5,10 @@
                 <h2 class="tomoru-font-1" style="color: #FFFFFF !important;">Настройте бота в три шага</h2>
                 <p class="tomoru-font-2" style="color: #FFFFFF !important;">Бот автоматически обучается на основе ваших данных и своего опыта</p>
 
-                <div class="col-12 row">
-                    <img src="img/block-3.png" alt="" width="100%" height="auto">
+                <div class="col-10 row tomoru-img-block tomoru-img-block-3" style="min-height: 199px;">
                 </div>
 
-                <div class="col-12">
+                <div class="col-12 mt-5">
                   <a href="#" class="tomoru-font-3 tomoru-btn-1" style="background-color: #FFFFFF !important;">Создать бота</a>
                 </div>
               </div>
