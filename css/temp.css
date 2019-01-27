@@ -59,6 +59,17 @@
 	border: 1px solid #000;
 }
 
+.tomoru-btn-2 {
+	background-color: #F1F5FB;
+	color: #06A77D;
+}
+
+.tomoru-btn-2:hover {
+	text-decoration: none;
+	background-color: #06A77D;
+	color: #FFFFFF;
+}
+
 
 /*IMAGES*/
 
