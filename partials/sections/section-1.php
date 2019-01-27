@@ -44,7 +44,7 @@
                 
                 
               </div>
-              <div class="col-12 col-md-4 tomoru-img-block tomoru-img-block-phone d-none d-md-block wow fadeInRight">
+              <div class="col-3 offset-1 tomoru-img-block tomoru-img-block-phone d-none d-md-block wow fadeInRight">
                 
               </div>
           </div>
