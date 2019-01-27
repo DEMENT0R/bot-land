@@ -294,6 +294,9 @@ footer {
     font-size: 20px;
     color: #37474F;
   }
+  #tomoru-img-macbook-right {
+    background-image: none;
+  }
 }
 
 @media only screen and (min-width: 992px) {
