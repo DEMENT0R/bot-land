@@ -1,4 +1,4 @@
-          <div class="bg_all bg_0 row">
+          <div class="bg_all bg_0 row pt-5 pt-md-0">
             <div class="col-12 wrapper" style="margin: auto;"></div>
               <!-- <div class="decoy">0</div> -->
               <div class="col-12 col-md-5 offset-md-2 text-left my-auto">

@@ -72,6 +72,14 @@
 .tomoru-btn-2 {
 	background-color: #F1F5FB;
 	color: #06A77D;
+	border: 1px solid #AEC5EB;
+	box-sizing: border-box;
+	border-radius: 4px;
+}
+
+.tomoru-btn-2.active {
+	background-color: #06A77D;
+	color: #FFFFFF;
 }
 
 .tomoru-btn-2:hover {

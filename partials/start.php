@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.0/css/bootstrap-slider.css" />
   <!--Animate css-->
   <link rel="stylesheet" href="css/animate.css">
   <!-- Main Styles -->
@@ -17,6 +18,7 @@
   <link rel="stylesheet" href="css/liLanding.css">
   <script src="js/jquery-1.9.0.min.js"></script>
   <script src="js/jquery.liLanding.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.0/bootstrap-slider.js"></script>
   <script>
   $(window).load(function(){
     $('.landingMenu').liLanding();
