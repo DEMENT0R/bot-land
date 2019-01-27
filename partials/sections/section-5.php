@@ -82,7 +82,7 @@
                                                   });
                                              </script>
                                         </div>
-          						<p class="tomoru-font-4">
+          						<p class="tomoru-font-4 mt-3">
           							* Эти данные позволяют рассчитать окупаемость проекта 
                                              <a href="#" class="tomoru-font-3 tomoru-btn-1 ml-5      wow fadeInUp">Рассчитать</a>
           						</p>
