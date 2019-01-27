@@ -32,6 +32,16 @@
 	color: #000000;
 }
 
+.tomoru-font-4 {
+	font-family: Fira Sans;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 14px;
+
+	color: rgba(0, 0, 0, 0.6);
+}
+
 /*BUTTONS*/
 
 .tomoru-btn-1 {
