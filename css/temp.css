@@ -42,6 +42,16 @@
 	color: rgba(0, 0, 0, 0.6);
 }
 
+.tomoru-font-5 {
+	font-family: Fira Sans;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 20px;
+
+	color: #37474F;
+}
+
 /*BUTTONS*/
 
 .tomoru-btn-1 {
