@@ -69,8 +69,9 @@
 
 .tomoru-btn-1:hover {
 	text-decoration: none;
-	color: #000;
-	border: 1px solid #000;
+	color: #FFFFFF;
+	background-color: #06A77D;
+	border-color: #FFFFFF;
 }
 
 .tomoru-btn-2 {
@@ -90,6 +91,16 @@
 	text-decoration: none;
 	background-color: #06A77D;
 	color: #FFFFFF;
+}
+
+.tomoru-btn-2-block-3 {
+	color: #06A77D !important; 
+	background-color: #FFFFFF !important;
+}
+
+.tomoru-btn-2-block-3:hover {
+	background-color: #06A77D !important; 
+	color: #FFFFFF !important;
 }
 
 /*TABS*/

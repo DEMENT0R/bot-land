@@ -27,7 +27,7 @@
                 </div>
 
                 <div class="col-12 mt-5">
-                  <a href="#" class="tomoru-font-3 tomoru-btn-1" style="background-color: #FFFFFF !important;">Создать бота</a>
+                  <a href="#" class="tomoru-font-3 tomoru-btn-1 tomoru-btn-2-block-3" style="">Создать бота</a>
                 </div>
               </div>
               <div class="col-12 wrapper" style="margin: auto;"></div>
